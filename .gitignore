@@ -1,0 +1,9 @@
+Debug/
+dep/
+bin/
+archive_struct/
+
+dist.zip
+.cproject
+.project
+tiledpp-src.zip
